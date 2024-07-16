@@ -3,7 +3,7 @@
       "requirement": {
         "trigger": "minecraft:recipe_crafted",
         "conditions": {
-          "recipe_id": "minceraft:template_recipe"
+          "recipe_id": "minceraft:scorch_recipe"
         }
       }
     },
@@ -13,7 +13,7 @@
       ]
     ],
     "rewards": {
-      "function": "minceraft:find_steed"
+      "function": "minceraft:scorch"
     },
     "sends_telemetry_event": false
   }
