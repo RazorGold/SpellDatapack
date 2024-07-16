@@ -3,11 +3,11 @@
         "Unlocked": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "minceraft:templateRecipe"
+                "recipe": "minceraft:template_recipe"
             }
         }
     },
     "rewards": {
-        "function": "minceraft:crafted_templateRecipe"
+        "function": "minceraft:crafted_template_recipe"
     }
 }
