@@ -1,5 +1,6 @@
 {
-    "values": [
-        "minceraft:load"
-    ]
+	"values": [
+	"tf_raycast:load",
+	"minceraft:load"
+	]
 }

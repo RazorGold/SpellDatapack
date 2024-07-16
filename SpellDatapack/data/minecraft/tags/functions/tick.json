@@ -1,5 +1,6 @@
 {
-    "values": [
-        "minceraft:tick"
-    ]
+	"values": [
+	"tf_raycast:loop",
+	"minceraft:tick"
+	]
 }
