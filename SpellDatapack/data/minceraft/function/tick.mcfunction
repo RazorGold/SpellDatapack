@@ -1,1 +1,2 @@
 execute as @a[scores={used=1..}, nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick",count:1,components:{"minecraft:custom_model_data":6901,"minecraft:custom_data":{minceraft:1b}}}}] at @s run function minceraft:find_steed
+execute as @a[scores={used=1..}, nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick",count:1,components:{"minecraft:custom_model_data":6902,"minecraft:custom_data":{minceraft:1b}}}}] at @s run function minceraft:scorch
