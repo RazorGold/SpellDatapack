@@ -13,7 +13,7 @@
       ]
     ],
     "rewards": {
-      "function": "minceraft:scorch"
+      "function": "minceraft:crafted_scorch_recipe"
     },
     "sends_telemetry_event": false
   }
