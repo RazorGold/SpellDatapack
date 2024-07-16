@@ -1,0 +1,20 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "minceraft:find_steed_recipe"
+        }
+      }
+    },
+    "requirements": [
+      [
+        "requirement"
+      ]
+    ],
+    "rewards": {
+      "function": "minceraft:crafted_find_steed"
+    },
+    "sends_telemetry_event": false
+  }
+  
