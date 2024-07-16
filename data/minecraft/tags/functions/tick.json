@@ -1,6 +1,5 @@
 {
     "values": [
-        "silly:tick",
-        "grapple:tick"
+        "minceraft:tick"
     ]
 }
