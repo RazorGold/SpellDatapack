@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "minceraft:find_steed_recipe"
+            }
+        }
+    },
+    "rewards": {
+        "function": "minceraft:crafted_find_steed"
+    }
+}
