@@ -17,5 +17,5 @@ kill @s
 
 
 #### Max out range to end the raycast
-scoreboard players set .distance tf_rc 1000
+scoreboard players set .distance ray_steps 0
 
